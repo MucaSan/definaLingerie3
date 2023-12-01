@@ -1,0 +1,6 @@
+1)Resolver o problema do banco de dados da foto no Form5, pois 
+ele não identifica, já que todo computador possuí um caminho
+diferente, usando o 'ApplicationPath', é possível ir direto para o 
+diretorio das fotos, independentemente do caminho do arquivo em C.
+2) Resolver a variável diretório no editar do Forms5
+
